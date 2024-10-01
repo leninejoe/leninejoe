@@ -1,7 +1,7 @@
 # Hi there, I'm Lenine Joseph 👋
 
-I am a passionate and motivated **B.Tech graduate** in **Information Technology** with a strong academic record of **81%**. Currently, I am enhancing my skills through a **Java Full Stack Development Course** at **QSpiders, Velachery**.
-A Dedicated and proactive **fresher** eager to seeking an opportunity in a better way with my skill sets and to help the company to archive business goals.
+- I am a passionate and motivated **B.Tech graduate** in **Information Technology** with a strong academic record of **81%**. Currently, I am enhancing my skills through a **Java Full Stack Development Course** at **QSpiders, Velachery**.
+- A Dedicated and proactive **fresher** eager to seeking an opportunity in a better way with my skill sets and to help the company to archive business goals.
 
 ## About Me
 
