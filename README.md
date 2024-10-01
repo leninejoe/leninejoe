@@ -44,6 +44,7 @@ Feel free to reach out for collaboration or job opportunities!
 - 📧 Email: [leninejoseph2002@gmail.com](mailto:leninejoseph2002@gmail.com)
 - 📞 Phone: 6383082476
 - 🌐 Portfolio: [lenine-joseph.netlify.app](https://lenine-joseph.netlify.app/)
+- 🔗 LinkedIn: [linkedin.com/in/lenine-joe](https://www.linkedin.com/in/lenine-joe/)
 
 ## Let's Connect!
 
